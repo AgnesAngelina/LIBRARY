@@ -1,0 +1,6 @@
+{
+  "name": "FolioDesk — Library Management System",
+  "description": "Manage library inventory, student records, book availability, and borrow return status backed by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
